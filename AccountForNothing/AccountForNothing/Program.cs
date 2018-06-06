@@ -5,7 +5,7 @@ namespace AccountForNothing
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Welcome to UNP accounting");
             Console.WriteLine("where we account for nothing!");
