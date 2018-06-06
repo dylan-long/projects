@@ -9,7 +9,8 @@ namespace AccountForNothing
         {
             Console.WriteLine("Welcome to UNP accounting");
             Console.WriteLine("where we account for nothing!");
-            Console.WriteLine("P.s. please help us we have a terrable buissnes model.");
+            Console.WriteLine("please help us. we have a \"tearable\" buissnes model.");
+            Console.WriteLine("Now hiring lamination services.");
             Console.ReadLine();
                 }
     }
