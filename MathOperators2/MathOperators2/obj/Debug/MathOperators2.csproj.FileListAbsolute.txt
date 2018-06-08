@@ -1,0 +1,7 @@
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\bin\Debug\MathOperators2.exe.config
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\bin\Debug\MathOperators2.exe
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\bin\Debug\MathOperators2.pdb
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\obj\Debug\MathOperators2.csprojAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\obj\Debug\MathOperators2.csproj.CoreCompileInputs.cache
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\obj\Debug\MathOperators2.exe
+c:\users\student\documents\visual studio 2017\Projects\MathOperators2\MathOperators2\obj\Debug\MathOperators2.pdb
