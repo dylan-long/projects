@@ -1,0 +1,7 @@
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csprojAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+c:\users\student\documents\visual studio 2017\Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
