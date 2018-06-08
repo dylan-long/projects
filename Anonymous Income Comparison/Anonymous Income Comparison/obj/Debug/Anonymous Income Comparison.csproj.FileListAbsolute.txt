@@ -1,0 +1,7 @@
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\Anonymous Income Comparison.exe.config
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\Anonymous Income Comparison.exe
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\bin\Debug\Anonymous Income Comparison.pdb
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.csprojAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.csproj.CoreCompileInputs.cache
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.exe
+c:\users\student\documents\visual studio 2017\Projects\Anonymous Income Comparison\Anonymous Income Comparison\obj\Debug\Anonymous Income Comparison.pdb
