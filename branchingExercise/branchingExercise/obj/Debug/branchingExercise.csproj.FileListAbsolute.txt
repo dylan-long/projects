@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\bin\Debug\branchingExercise.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\bin\Debug\branchingExercise.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\bin\Debug\branchingExercise.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\obj\Debug\branchingExercise.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\obj\Debug\branchingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\obj\Debug\branchingExercise.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\branchingExercise\branchingExercise\obj\Debug\branchingExercise.pdb
