@@ -1,0 +1,7 @@
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\bin\Debug\loopPractice.exe.config
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\bin\Debug\loopPractice.exe
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\bin\Debug\loopPractice.pdb
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\obj\Debug\loopPractice.csprojAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\obj\Debug\loopPractice.csproj.CoreCompileInputs.cache
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\obj\Debug\loopPractice.exe
+c:\users\student\documents\visual studio 2017\Projects\loopPractice\loopPractice\obj\Debug\loopPractice.pdb
