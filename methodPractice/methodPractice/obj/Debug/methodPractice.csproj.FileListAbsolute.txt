@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\bin\Debug\methodPractice.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\bin\Debug\methodPractice.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\bin\Debug\methodPractice.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\obj\Debug\methodPractice.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\obj\Debug\methodPractice.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\obj\Debug\methodPractice.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\methodPractice\methodPractice\obj\Debug\methodPractice.pdb
