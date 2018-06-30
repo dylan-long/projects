@@ -1,0 +1,14 @@
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\bin\Debug\twentyOne2.exe.config
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\bin\Debug\twentyOne2.exe
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\bin\Debug\twentyOne2.pdb
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.csprojAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.csproj.CoreCompileInputs.cache
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.exe
+c:\users\student\documents\visual studio 2017\Projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.pdb
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\bin\Debug\twentyOne2.exe.config
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\bin\Debug\twentyOne2.exe
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\bin\Debug\twentyOne2.pdb
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.exe
+C:\Users\Student\Documents\GitHub\projects\twentyOne2\twentyOne2\obj\Debug\twentyOne2.pdb
